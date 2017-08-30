@@ -1,0 +1,21 @@
+{
+    "name": "emeraldinspirations/",
+    "description": "",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matthew \"Juniper\" Barlett",
+            "email": "emeraldinspirations@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "namespace\\": "app/"
+        }
+    },
+    "require-dev": {
+    }
+}
