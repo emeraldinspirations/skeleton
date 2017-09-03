@@ -2,6 +2,7 @@
     "name": "emeraldinspirations/",
     "description": "",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Matthew \"Juniper\" Barlett",
