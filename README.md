@@ -16,3 +16,4 @@ git clone -o gitHub -b [app] --single-branch git@github.com:emeraldinspirations/
 ```
 
 - [gitHubSkeleton](https://github.com/emeraldinspirations/template/tree/gitHubSkeleton)
+- [gitIgnore](https://github.com/emeraldinspirations/template/tree/gitIgnore)
